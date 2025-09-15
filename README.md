@@ -1,6 +1,6 @@
 ---
 layout: redirected
 sitemap: false
-redirect_to: compass.md
+redirect_to: compass.html
 ---
 kakei-no-compass
