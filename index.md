@@ -112,7 +112,7 @@ YES/NOの質問に答えてもらうだけで、ざっくり現在地と次の�
 ### Ｑ６
 <details>
   <summary></summary>
-  <strong>扶養している子供の教育資金を、柔軟性高く準備しているか？</strong>
+  <strong>扶養している子供の教育資金準備に、柔軟性はあるか？</strong>
   <br>
   <details>
     <summary>YES</summary>　Ｑ７へ
