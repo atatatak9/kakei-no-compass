@@ -1,7 +1,5 @@
 ---
-layout: page
-title: "PAGE-TITLE"
-permalink: /URL-PATH
+title: 
 ---
 # 🧭家計のコンパス
 ## これは何？
