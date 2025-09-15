@@ -71,7 +71,7 @@ YES/NOの質問に答えてもらうだけで、ざっくり現在地と次の�
 ### Ｑ４
 <details>
   <summary></summary>
-  <strong>今、自身に万が一のことがあった場合、家計負担が同等以下の家族などに対して、経済的な負担を軽減する資金はあるか？</strong>
+  <strong>今、自身に万が一のことがあった場合、家族などの経済的な負担を軽減する資金はあるか？</strong>
   <br>
   <details>
     <summary>YES</summary>　Ｑ５へ
@@ -112,7 +112,7 @@ YES/NOの質問に答えてもらうだけで、ざっくり現在地と次の�
 ### Ｑ６
 <details>
   <summary></summary>
-  <strong>15歳以下かつ高校生未満の扶養している子供に対して、柔軟性のある教育資金準備をしているか？</strong>
+  <strong>扶養している子供の教育資金を、柔軟性高く準備しているか？</strong>
   <br>
   <details>
     <summary>YES</summary>　Ｑ７へ
