@@ -1,1 +1,5 @@
-kakei-no-compass
+---
+layout: redirected
+sitemap: false
+redirect_to: compass.html
+---
