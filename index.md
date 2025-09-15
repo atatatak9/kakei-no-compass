@@ -142,7 +142,7 @@ YES/NOの質問に答えてもらうだけで、ざっくり現在地と次の�
   <details>
     <summary>NO</summary>　現在地：🏄
       <br>
-      <strong>　　安定した家計を基盤に将来を見据えて、資産を拡大したい</strong>
+      <strong>　　安定した家計を基盤に、将来を見据えて、資産を拡大したい</strong>
       <br>　次のステップ
       <ul>
         <li><strong>NISA／iDeCo／企業型確定拠出年金で、長期・積立投資する AND/OR</strong></li>
