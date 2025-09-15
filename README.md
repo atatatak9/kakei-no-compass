@@ -1,7 +1,3 @@
----
-layout: redirected
-sitemap: false
-redirect_to: https://atatatak9.github.io/kakei-no-compass/compass.html
----
+For the entry.
 
-kakei-no-compass
+※[For main content](https://atatatak9.github.io/kakei-no-compass/compass.html "🧭家計のコンパス")=compass
