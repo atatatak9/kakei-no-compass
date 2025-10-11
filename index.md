@@ -144,7 +144,7 @@ title: "家計のコンパス"
 ### Ｑ７
 <details>
   <summary></summary>
-  <strong>会社を引退した後の生活資金は、老齢年金以外に目途はあるか？</strong>
+  <strong>会社を引退した後の生活資金に、老齢年金以外の目途はあるか？</strong>
   <br>
   <details>
     <summary>YES</summary>　Keep it going!
