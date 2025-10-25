@@ -61,9 +61,9 @@ title: "家計のコンパス"
 ### Ｑ３
 <details>
   <summary></summary>
-  <strong>家計が一緒で負担が同等以下の家族などはいるか？</strong>
+  <strong>家計が一緒で、負担が同等以下の家族などはいるか？</strong>
   <br>
-  ※15歳以下かつ高校生未満の扶養している子供は除く
+  ※未就労かつ18歳以下の扶養している子供は除く
   <details>
     <summary>YES</summary>　Ｑ４へ
   </details>
@@ -103,7 +103,7 @@ title: "家計のコンパス"
 ### Ｑ５
 <details>
   <summary></summary>
-  <strong>15歳以下かつ高校生未満の扶養している子供はいるか？</strong>
+  <strong>未就労かつ18歳以下の扶養している子供はいるか？</strong>
   <br>
   <details>
     <summary>YES</summary>　Ｑ６へ
